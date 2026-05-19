@@ -1,7 +1,13 @@
 # W-Wave-radio
+
 ## Учебный проект. Лендинг. Страница радиостанции подкастов. С адаптивами и JavaScript.
-## Стек технологий на проекте: HTML, CSS, JS. Библиотеки JS:
-## -Graph-modal.js: создание модальных окон.
-## -Choices.js: создание выпадаюших списков.
-## -Just-validate: валидация форм.
-## Страничка с моим проектом: https://sergiusyo.github.io/W-Wave-radio/
+
+<span style="font-size:12px;">Стек технолоний на проекте: HTML, CSS, JavaScript. Библиотеки JS:</span>
+
+<div style="font-size:12px;">
+<p>- JQuery-UI.</p>
+<p>- Graph-modal.js: создание модальных окон.</p>
+<p>- Just-validate: валидация форм.</p>
+<p>- Swiper.js: слайдеры.</p>
+<p> Ссылка на страничку с проектом: https://sergiusyo.github.io/W-Wave-radio/</p>
+</div>
